@@ -4,6 +4,11 @@ Handy e-paperdisplay that updates every hour and displays power prices in an eas
 
 Created in Arduino, utilizes [GxEPD2](https://github.com/ZinggJM/GxEPD2) and [Adafruit GFX (Fonts)](https://github.com/adafruit/Adafruit-GFX-Library). 
 
+| Front | Back |
+| --- | ---|
+| ![Front, not pretty but it does the job](./media/20230331_122927.jpg) | ![Back, see front](./media/20230331_122756.jpg) |
+
+
 ### Items
 
 * [ESP32 Dev Module](https://www.aliexpress.com/item/1005004268911484.html?spm=a2g0o.productlist.main.1.4e792e2aCbh6W3&algo_pvid=4d8414a7-8d67-4a7c-955c-ebdace48d5fa&algo_exp_id=4d8414a7-8d67-4a7c-955c-ebdace48d5fa-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000028838235689%22%7D&pdp_npi=3%40dis%21EUR%213.52%212.85%21%21%21%21%21%40211bd3cb16802582304613136d0709%2112000028838235689%21sea%21NO%21198746603&curPageLogUid=CrUzD1s0la0t) 
